@@ -1,5 +1,5 @@
 /* import shared library */
-@Library('jenkins-shared-library')_
+@Library('slack-notify')_
 
 pipeline {
     agent any
